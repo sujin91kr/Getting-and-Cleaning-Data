@@ -10,6 +10,6 @@ Here are the data used in thisproject:
 
 # Files
 * `CodeBook.md` : description of data and variables with the explanation how to be worked and transformed step by step.
-* `run_analysis.R` : R code to create the result data. It contains 5 steps which are described in `CodeBook.md`
+* `cleaningData.R` : R code to create the result data. It contains 5 steps which are described in `CodeBook.md`
 * `averages_data` : the output of this project which contains avarage value per subject and activity.
 
