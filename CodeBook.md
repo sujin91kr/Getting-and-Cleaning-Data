@@ -1,4 +1,4 @@
-Introduction
+# Introduction
 
 The script run_analysis.R contains 5 steps following the coursera-Getting and Cleaning Data project.
   1.Merges the training and the test sets to create one data set.
@@ -15,7 +15,7 @@ The script run_analysis.R contains 5 steps following the coursera-Getting and Cl
 
 
 
-Data and Variables
+# Data and Variables
 
 • x_train, y_train, x_test, y_test, subject_train and subject_test : downloaded data.
 • x_data, y_data and subject_data : created by merging the previous datasets.
