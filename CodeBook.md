@@ -25,17 +25,3 @@ The script run_analysis.R contains 5 steps following the coursera-Getting and Cl
   - column names are the "activity_code" and "activity_name".
 * `binded_data` : a big dataset that contains x_mean_std, y_named_Data and subject_data.
 * `average_data` : arregated by mean for each activity and each subject.
-
-
-
-
-
-• `x_train`, `y_train`, `x_test`, `y_test`, `subject_train` and `subject_test` : downloaded data.
-• `x_data`, `y_data` and `subject_data` : created by merging the previous datasets.
-  - the subject_data's column name is "subject".
-• `x_mean_std` : the subset of x_data which contains only mean, std.
-  - column names are the features.
-• `y_named_data` : contains both the activity codes and the names.
-  - column names are the "activity_code" and "activity_name".
-• `binded_data` : a big dataset that contains x_mean_std, y_named_Data and subject_data.
-• `average_data` : arregated by mean for each activity and each subject.
